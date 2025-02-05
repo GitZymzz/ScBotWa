@@ -1,21 +1,21 @@
 const fs = require('node:fs');
 
 const config = {
-    owner: ["6283136099660"],
-    name: "ʜᴀɴᴀᴋᴏ-ᴋᴜɴ-ʙᴏᴛᴢ",
-    ownername: 'ʟᴇᴏᴏxᴢʏ', 
-    ownername2: 'ᴅᴇᴋᴜ',
+    owner: ["6283853787611"],
+    name: "𝙇𝙪𝙣𝙤𝙭-𝘽𝙤𝙩𝙕",
+    ownername: '𝒁𝒚𝒎𝒛𝒛', 
+    ownername2: '𝒁𝒚𝒎𝒛𝒛',
     prefix: [".", "?", "!", "/", "#"], //Tambahin sendiri prefix nya kalo kurang
-    wagc: 'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F',
-    saluran: '120363335989645846@newsletter', 
+    wagc: 'https://whatsapp.com/channel/0029VakakCcLI8YV5UInP61u',
+    saluran: '120363300298271061@newsletter', 
     jidgroupnotif: '120363368798656053@g.us', 
-    saluran2: '120363335989645846@newsletter', 
+    saluran2: '120363300298271061@newsletter', 
     jidgroup: '120363368798656053@g.us', 
-    jidch: '120363335989645846@newsletter', 
+    jidch: '120363300298271061@newsletter', 
     sessions: "sessions",
     sticker: {
-      packname: "〆 ʜᴀɴᴀᴋᴏ-ᴋᴜɴ-ʙᴏᴛᴢ",
-      author: "by : xzhiraa 〆"
+      packname: "𝙇𝙪𝙣𝙤𝙭-𝘽𝙤𝙩𝙕",
+      author: "by : 𝒁𝒚𝒎𝒛𝒛 〆"
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
